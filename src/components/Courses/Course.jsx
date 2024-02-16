@@ -2,7 +2,7 @@
 import { FaDollarSign,FaBookReader } from "react-icons/fa";
 
 
-const Course = ({course}) => {
+const Course = ({course,handleBookMraks}) => {
     const {cover,details,title,credit,price} = course
     return (
         <div className="bg-white rounded-lg p-4  text-center">
@@ -15,7 +15,7 @@ const Course = ({course}) => {
                 <FaBookReader />
                 <h4>Credits : {credit}hr </h4>
             </div>
-            <button className="bg-blue-700 text-white w-32 rounded-2xl mt-5 py-3">Select</button>
+            <button onClick={()=>{handleBookMraks(title,credit,price)}} className="bg-blue-700 text-white w-32 rounded-2xl mt-5 py-3">Select</button>
         </div>
     );
 };
