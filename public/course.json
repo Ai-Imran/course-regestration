@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/7GH1PbN/un1.jpg",
+      "title": "Modern Abstract Art",
+      "details": "This stunning piece of modern art will add a touch of sophistication to any room. With its vibrant colors and bold shapes, it is sure to be a conversation starter.",
+      "credit": 2 ,
+      "price": 199.99
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/SR20Dn1/un2.jpg",
+      "title": "Vintage Leather Bag",
+      "details": "A timeless classic, this vintage leather bag is perfect for everyday use. It features a spacious interior, multiple pockets, and a stylish design that never goes out of fashion.",
+      "credit": 3,
+      "price": 149.99
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/3SWXQkH/un3.jpg",
+      "title": "Gourmet Coffee Blend",
+      "details": "Indulge in the rich and aromatic flavors of our gourmet coffee blend. Sourced from the finest beans and expertly roasted to perfection, it's a coffee lover's dream come true.",
+      "credit": 4,
+      "price": 24.99
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/SR20Dn1/un2.jpg",
+      "title": "Handcrafted Ceramic Bowl Set",
+      "details": "Elevate your dining experience with our handcrafted ceramic bowl set. Each piece is lovingly made by skilled artisans, ensuring quality and uniqueness in every bowl.",
+      "credit": "1 week",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/SR20Dn1/un2.jpg",
+      "title": "Wireless Bluetooth Headphones",
+      "details": "Experience the ultimate freedom with our wireless Bluetooth headphones. With crystal clear sound and comfortable fit, you can enjoy your favorite music wherever you go.",
+      "credit": 8,
+      "price": 129.99
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/5xnpSpz/un4.jpg",
+      "title": "Organic Skincare Set",
+      "details": "Treat your skin to the luxury it deserves with our organic skincare set. Packed with nourishing ingredients and free from harmful chemicals, it's the perfect way to pamper yourself.",
+      "credit": 3 ,
+      "price": 49.99
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/4mxkdr8/un5.jpg",
+      "title": "Travel Backpack",
+      "details": "Ready for your next adventure? Our travel backpack has got you covered. With its durable construction, ample storage space, and comfortable design, it's the perfect companion for any journey.",
+      "credit": 6,
+      "price": 89.99
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/7GH1PbN/un1.jpg",
+      "title": "Smartwatch",
+      "details": "Stay connected and organized with our smartwatch. Featuring a sleek design, intuitive interface, and advanced features, it's the perfect accessory for modern living.",
+      "credit": 4,
+      "price": 199.99
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/5xnpSpz/un4.jpg",
+      "title": "Faux Fur Throw Blanket",
+      "details": "Add a touch of luxury and warmth to your home with our faux fur throw blanket. Soft, cozy, and stylish, it's perfect for cuddling up on chilly nights.",
+      "credit": 8,
+      "price": 59.99
+    }
+  ]
+  
